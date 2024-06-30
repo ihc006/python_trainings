@@ -8,7 +8,7 @@ Python 3.11.3
 > sudo apt-get install python3
 
 
-# Ubuntu’da paketlerin hepsini şu komutla kurabilirsiniz:
+# 
 > sudo apt-get install tcl-dev tk-dev zlib1g-dev ncurses-dev libreadline-dev libdb-dev libgdbm-dev libzip-dev libss libsqlite3-dev libbz2-dev liblzma-dev
 
 
