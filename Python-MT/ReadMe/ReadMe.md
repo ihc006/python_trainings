@@ -1,1 +1,0 @@
-https://www.youtube.com/watch?v=0KQp2v5vrV8   Sıfırdan Python Öğreniyoruz | Yeni başlayanlar için Python Dersleri | 8 Saat Python Eğitimi ... Mehmet TEK   =Training
