@@ -21,6 +21,6 @@ isim=input("isminiz nedir")
 Sisim=input("Soyisminiz nedir")
 
 ##--------------------
-#52:40 da 05/07
+#55:40 da 07/07
 
 
