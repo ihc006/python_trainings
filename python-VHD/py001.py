@@ -1,6 +1,3 @@
-"aaa bensinz olmaaaaz"
-
-9+9
 
 print("aaa bensinz olmaaaaz")
 
@@ -11,3 +8,5 @@ type("Aaa sensiz olmaaaz")
 
 
 # 50 steps
+
+#  SAyilar ve Stringler
