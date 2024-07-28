@@ -1,7 +1,3 @@
-"aaa bensinz olmaaaaz"
-
-9+9
-
 print("aaa bensinz olmaaaaz")
 
 
