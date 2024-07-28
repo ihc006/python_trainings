@@ -10,3 +10,5 @@ type("Aaa sensiz olmaaaz")
 # 50 steps
 
 #  SAyilar ve Stringler
+
+ # bu geceki son deneme
