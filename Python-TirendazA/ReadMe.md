@@ -1,3 +1,4 @@
 1 videoda Python  - Tirendaz Akademi   adli video egitimi
 
 # nihayet her sey ok bahane kalmadi
+# ama hala den'yorum sorunlari bulmaya
