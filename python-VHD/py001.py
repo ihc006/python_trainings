@@ -7,3 +7,8 @@ type("Aaa sensiz olmaaaz")
 
 
 # 50 steps
+
+#  Sayilar ve Stringler
+
+
+# bu da bu geceki ilk denemeydi
