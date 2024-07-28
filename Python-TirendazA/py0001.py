@@ -1,3 +1,3 @@
 
 
-print("aaaa bensiz olur muuuu")
+print("aaaa bensiz olur muuuu oluuur")
