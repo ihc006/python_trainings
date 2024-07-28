@@ -2,3 +2,5 @@
 
 # nihayet her sey ok bahane kalmadi
 # ama hala den'yorum sorunlari bulmaya
+
+# pycharm kaldi sadece
