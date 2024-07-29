@@ -1,4 +1,4 @@
-print("aaa bensinz olmaaaaz")
+print("pycharm ile basladik bakalim")
 
 
 type(9)
@@ -11,4 +11,4 @@ type("Aaa sensiz olmaaaz")
 #  Sayilar ve Stringler
 
 
-# bu da bu geceki ilk denemeydi
+# pycharm ile basladik bakalim
