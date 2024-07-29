@@ -1,9 +1,9 @@
 print("pycharm ile basladik bakalim")
 
 
-type(9)
-type(9.2)
-type("Aaa sensiz olmaaaz")
+type(9);
+type(9.2);
+type("Aaa sensiz olmaaaz");
 
 
 # 50 steps
@@ -12,3 +12,4 @@ type("Aaa sensiz olmaaaz")
 
 
 # pycharm ile basladik bakalimmmm   ooooo  1
+# pycharm github ayarlari ogrenildi
