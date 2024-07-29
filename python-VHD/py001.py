@@ -1,8 +1,4 @@
-"aaa bensinz olmaaaaz"
-
-9+9
-
-print("aaa bensinz olmaaaaz")
+print("pycharm ile basladik bakalim")
 
 
 type(9)
@@ -11,3 +7,8 @@ type("Aaa sensiz olmaaaz")
 
 
 # 50 steps
+
+#  Sayilar ve Stringler
+
+
+# pycharm ile basladik bakalimmmm   ooooo  1
