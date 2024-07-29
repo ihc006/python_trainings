@@ -11,4 +11,4 @@ type("Aaa sensiz olmaaaz")
 
 #  SAyilar ve Stringler
 
- # bu geceki son deneme
+ # sabah bismillah didik bakalim
