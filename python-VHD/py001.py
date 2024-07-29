@@ -11,4 +11,4 @@ type("Aaa sensiz olmaaaz")
 #  Sayilar ve Stringler
 
 
-# pycharm ile basladik bakalimmmm
+# pycharm ile basladik bakalimmmm   ooooo
