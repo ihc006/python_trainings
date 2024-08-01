@@ -1,54 +1,8 @@
-print("pycharm ile basladik bakalim")
-#  Sayilar ve Stringler
-# Basladik 002
-# 31/07
-"a" * 3
-"a" + "b"
-"a" + "-b"
-
-a = 9
-b = 10
-a * b
-# mvk="Sample text"
-# del mvk
-a1t = "Sample text"
-
-len(a1t)
-
-a1t.upper()
-
-a1t.lower()
-
-a1t.islower()
-B=a1t.upper()
-print(B)
-
-a1t.isupper()
-B=a1t.lower()
-print(B)
-
-
-# 01/08
-
-# replace
-
-texttest="gelecek guzel olacak"
-texttest.replace("e","a")
-texttest.replace("a","i")
-
-# strip   bas ve sondaki
-
-texttest=" gelecek guzel olacak  "
-texttest.strip()  # ontanimli deger bosluk
-
-
-texttest="*gelecek guzel olacak***"
-texttest.strip("*")   # tanimli deger *
-
-
+# Metod lar
 # bir komut la ilgili neler yapilabilir hangi komutlari da ogrenmeliyim vb de ise
 
 # dir()  # komutu icine istenilen tip degisken yazilir calistirilir ki ilgili butun metodlar cikar
+texttest="gelecek guzel olacak"
 
 dir(texttest)
 dir(str)
@@ -61,3 +15,11 @@ dir(str)
 # 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans',
 # 'partition', 'removeprefix', 'removesuffix', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit',
 # 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill']
+
+texttest.capitalize()
+texttest.title()
+
+
+# substring
+
+texttest="gelecek guzel olacak"
