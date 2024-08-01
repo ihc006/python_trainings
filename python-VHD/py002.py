@@ -23,3 +23,50 @@ texttest.title()
 # substring
 
 texttest="gelecek guzel olacak"
+len(texttest)
+texttest[3]
+
+texttest[0:3]
+
+texttest[3:7]
+
+# Degiskenler
+
+a=90
+b="Ali topu tut"
+
+c=a*6
+
+a/c
+a*c
+a*5
+
+
+type(100)
+type(100.2)
+type(1+2j)
+
+# type donusumleri
+
+sayi1= input()
+
+sayi2= input()
+
+type(sayi1)
+
+sayi1+sayi2  # sayi degiskenleri str tipinde oldugu icin iki ifadeyi topladi yani yan yana yazdi
+
+int(sayi1)+int(sayi2)
+
+int(12.5)
+float(12)
+
+# print
+
+print("Mrb ihc")
+
+print("Mrb ","ihc", "python ok")
+
+print("Mrb ","ihc", "python ok",sep= "-")
+
+help(print)  # ile print fonksiyonunun paramtreleri gosterilir
