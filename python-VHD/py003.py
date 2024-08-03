@@ -20,3 +20,11 @@ liste2[3]
 tum_liste=[liste,liste2]
 
 # del tum_liste   ....  adi gecen listeyi silmek icin
+
+notlar2=[10,20,70,60,50]
+
+notlar2[1]
+
+notlar2[0:2]
+# alt ve usteki ayni sonucu verir
+notlar2[:2]
