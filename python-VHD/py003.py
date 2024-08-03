@@ -34,3 +34,5 @@ notlar3=[10,20,[70,60,50]]
 # liste icindeki bir listenin elemanina ulasmak icin
 
 notlar3[2][0] # listenin 2 elmani da lsite ve onun 0 inci elemani
+
+# liste eleman ekleme degistirme silme islemleri
