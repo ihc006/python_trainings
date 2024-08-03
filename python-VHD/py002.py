@@ -70,3 +70,5 @@ print("Mrb ","ihc", "python ok")
 print("Mrb ","ihc", "python ok",sep= "-")
 
 help(print)  # ile print fonksiyonunun paramtreleri gosterilir
+
+# print(*args, sep=' ', end='\n', file=None, flush=False)
