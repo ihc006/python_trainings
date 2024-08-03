@@ -28,3 +28,9 @@ notlar2[1]
 notlar2[0:2]
 # alt ve usteki ayni sonucu verir
 notlar2[:2]
+
+notlar3=[10,20,[70,60,50]]
+
+# liste icindeki bir listenin elemanina ulasmak icin
+
+notlar3[2][0] # listenin 2 elmani da lsite ve onun 0 inci elemani
