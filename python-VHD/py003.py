@@ -36,3 +36,48 @@ notlar3=[10,20,[70,60,50]]
 notlar3[2][0] # listenin 2 elmani da lsite ve onun 0 inci elemani
 
 # liste eleman ekleme degistirme silme islemleri
+
+
+listen=["ali","veli","berkcan","ayse"]
+
+listen
+
+listen[1]="velinin_babasi"  # 1 nolu liste elemani atandi degistirildi
+
+listen
+listen[0:3]="alinin_babasi","velinin_babasi","berkin_babasi"  # listenin 3 elemanlarini dgistirmek icin
+
+listen
+
+
+# listeye yeni bir eleman eklemek icin
+
+listen+["kemal"]  # gecici ekleme
+
+listen
+
+listen=listen+["kemal"]   # listen e yeni bir elemani kalici eklemek icin
+
+listen
+
+del listen[2]  # listede ki  ilgili bir elemani silmek icin
+
+listen
+
+#############################
+# liste metodlari
+
+listex=["ali","veli","ayse"]
+dir(listex)   # liste ile ilgili metodlari gormek icin
+
+
+# append & remove
+
+listex.append("berkcan")
+listex
+
+listex.remove("berkcan")
+listex
+
+
+# insert
