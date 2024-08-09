@@ -80,4 +80,69 @@ listex.remove("berkcan")
 listex
 
 
-# insert
+# 65. insert
+
+listex1=["ali","veli","ayse"]
+listex1
+
+listex1.insert(0,"selim")   # 0 inci index e veri eklemek icin
+listex1
+
+
+listex1.insert(2,"kerim")
+
+listex1
+
+len(listex1)
+listex1.insert(len(listex1),"beren")
+listex1
+
+# pop     listeden elemen silmek icin kullanilir
+
+
+listex1
+
+listex1.pop(0)
+
+listex1
+
+# 66 diger liste metodlari
+
+listex2=["ali","veli","ayse","ali","veli","ayse","ali","veli","ayse","ayse"]
+
+# count
+
+listex2.count("ali")
+
+listex2.count("ayse")
+
+#copy
+
+listex3=listex2.copy()
+
+listex3
+
+# extend
+
+listex2.extend(["a","b",10])
+listex2
+
+# index
+
+listex2.index("ali")
+
+# reverse    listenin elemanlarini tersine cevirir
+
+listex2.reverse()
+listex2
+
+# sort   listeyi kucukten buyuge siralar tipleri uygun olmali
+
+listex4=[10,40,5,90]
+listex4.sort()
+listex4
+
+# clear
+
+listex4.clear()
+listex4
