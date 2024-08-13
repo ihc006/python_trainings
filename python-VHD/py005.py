@@ -29,3 +29,36 @@ veli[0]  # liste deki 0 inci elemani verir
 s[0]   # 'se tip hatasi verir
 
 # 73 set elman ekleme cikarma
+
+lst3=["Gelecegi","Yazanlar","kahramanlardir"]
+
+lst3
+
+s=set(lst3)
+
+s
+
+dir(s)
+
+s.add("cesurlardir")
+
+s
+
+s.add("fedakarlarlardir")  # ekelnecek olani rastgele listeye ekler    {'Yazanlar', 'cesurlardir', 'Gelecegi', 'fedakarlarlardir', 'kahramanlardir'}
+
+
+s.add("cesurlardir")   # ayni degeri eklemeye calistik ama eklemedi
+s
+
+
+s.remove("cesurlardir") # silmek istediginiz degeri
+s
+
+
+s.remove("cesurlardir") # silmek istediginiz degeri 2 'inci kez silmek istersek hata uzertir
+s
+
+s.discard("cesurlardir")  # s'lmek istedigi degeri arar bulamaz ise hatada vermez
+s
+
+############## Klasik m]me islemleri
