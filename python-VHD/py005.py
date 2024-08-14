@@ -119,3 +119,6 @@ set2.difference(set1)           # 2 de olup 1 de olmayanlar
 set3.issubset(set4)               # .subset() true/false bir kumenin elemanlarinin baska bir kume icinde yer alip almadigi
 
 set4.issuperset(set3)              # bir kumenin digerini kapsayip kapsamadigi
+
+
+# b'tt'
