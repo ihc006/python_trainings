@@ -46,10 +46,32 @@ carpmayap(15,24)
 # on tanimli argumanlar
 
 def carpmayap2(x,y=15):
-    print("Girilen sayilar..: "+str(x) +" ve "+str(y) +" nin carpimlari .: "+str(x * y))
-
-
+    print("Girilen sayilar..: "+str(x) +" ve "+str(y) +" Fonksiyonun sonucu .: "+str(x * (y+10)))
 
 carpmayap2(35)  # eger ikinci deger yazilmaz ise on tanimli degeri alir
 
 carpmayap2(35,4)   # 2 inci deger girilir ise onu alir
+
+# siralamasini  bilmiyor isek belirtme
+
+carpmayap2(y=35,x=4)
+
+# return kullanimi
+
+def direk_hesap(isi,nem,sarj):
+    print((isi+nem)/sarj)
+
+direk_hesap(25,40,70)
+
+cikti= direk_hesap(25,40,70)
+
+cikti  # cikti degeri atanamadi None olarak gozukuyor
+
+def direk_hesap2(isi,nem,sarj):
+    return (isi+nem)/sarj   # fonksiyonlar return dan sonraki satiri almaz o yuzden sonrasina kod birakmamak gerek
+
+
+direk_hesap2(25,40,70)*100
+
+cikti2=direk_hesap2(25,40,70)
+cikti2
