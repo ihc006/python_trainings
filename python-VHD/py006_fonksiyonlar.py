@@ -36,3 +36,20 @@ def kareal(x):
 
 # 80 iki argumanli fonksiyon tanimlama
 ..
+
+def carpmayap(x,y):
+    print("Girilen sayilar..: "+str(x) +" ve "+str(y) +" nin carpimlari .: "+str(x * y))
+
+carpmayap(15,24)
+
+
+# on tanimli argumanlar
+
+def carpmayap2(x,y=15):
+    print("Girilen sayilar..: "+str(x) +" ve "+str(y) +" nin carpimlari .: "+str(x * y))
+
+
+
+carpmayap2(35)  # eger ikinci deger yazilmaz ise on tanimli degeri alir
+
+carpmayap2(35,4)   # 2 inci deger girilir ise onu alir
