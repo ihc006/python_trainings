@@ -46,3 +46,29 @@ else :
 
 
 # 89 elif
+
+sinir = 50000
+gelir1 = 60000
+gelir2 = 50000
+gelir3 = 35000
+
+if gelir1 > sinir:
+    print("Tebrikler , hediye kazandiniz")
+elif gelir1 < sinir :
+    print("Uyari!")
+else :
+    print("Geliriniz  esit ")
+
+if gelir3 > sinir:
+    print("Tebrikler , hediye kazandiniz")
+elif gelir3 < sinir :
+    print("Uyari!")
+else :
+    print("Geliriniz  esit ")
+
+if gelir2 > sinir:
+    print("Tebrikler , hediye kazandiniz")
+elif gelir2 < sinir :
+    print("Uyari!")
+else :
+    print("Geliriniz  esit ")
