@@ -35,3 +35,4 @@ def kareal(x):
     kareal(9)
 
 # 80 iki argumanli fonksiyon tanimlama
+..
