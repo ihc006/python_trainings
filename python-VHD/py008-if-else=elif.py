@@ -72,3 +72,18 @@ elif gelir2 < sinir :
     print("Uyari!")
 else :
     print("Geliriniz  esit ")
+
+# 90 if ve input
+
+
+sinir= 50000
+
+magaza_adi = input("Magaza adini girin...: ")
+gelir = int(input("GElirinizi girin ...: "))
+
+if gelir > sinir:
+    print("Tebrikler .."+magaza_adi+"  promosyon kazandiniz")
+elif gelir < sinir:
+    print(" Uyari ! Dusuk Gelir ..: "+str(gelir))
+else:
+    print("takibe devam")
