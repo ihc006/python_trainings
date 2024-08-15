@@ -46,4 +46,20 @@ yeni_maas1(400)
 
 for i in maaslar:
     yeni_maas1(i)
-# if for ve fonksiyon Kullanimi
+# 94 if for ve fonksiyon Kullanimi
+# ornek senaryo  maaslari 300 0 altina %20 ustune %10 zam
+
+maaslar1=[1000,2000,3000,4000,5000,6000]
+def maas_ust(x):
+    print(x*1.1)
+def maas_alt(x):
+    print(x * 1.2)
+
+for i in maaslar1:
+       print(i)
+
+for i in maaslar1:
+    if i>=3000:
+        maas_ust(i)
+    else:
+        maas_alt(i)
