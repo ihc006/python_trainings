@@ -17,3 +17,11 @@ for i in maaslar1:
     if i == 3000:
         continue    # ic ontrol 3000 i gordugunde devam eder ve onu atlamis olur
     print(i)
+
+# 96 while
+
+sayi = 1
+
+while sayi < 10 :
+    sayi+=1      # sayi ya 1 ekle ve esitle/atama yap
+    print(sayi)
